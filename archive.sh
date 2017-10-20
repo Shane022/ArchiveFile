@@ -19,7 +19,6 @@ configuration="Release"
 workspace_path="$project_path/$scheme.xcodeproj"
 #指定输出路径
 output_path="/Users/$userName/Desktop/ipa"
-echo "++++++++$output_path"
 #指定输出归档文件地址
 archive_path="$output_path/$scheme.xcarchive"
 #指定输出ipa地址
